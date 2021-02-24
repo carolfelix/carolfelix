@@ -1,7 +1,7 @@
-# Ana Carolina Felix 
+ # <a href="https://www.linkedin.com/in/carolfelix/">Ana Carolina Felix</a>
 
 ## HELLO, WELCOME 👋
-  Sou desenvolvedora de software, tenho 1 ano e alguins meses de experiência na área e atualmente curso Análise e Desenvolvimento de Sistemas (FATEC). Me formei no curso técnico de Informática para Internet integrado ao ensino Médio.
+  Sou desenvolvedora de software, tenho 18 anos e tenho 1 ano e alguns meses de experiência na área e atualmente curso Análise e Desenvolvimento de Sistemas (FATEC). Sou técnicoa em Informática para Internet pela Etec Maria Cristina Medeiros.
 <br>tenho experiências com aspnet MVC, sql server, html5, css3, C#.
 
  :rocket: 💜&nbsp; Estou trabalhando na **LAMBDA3**
